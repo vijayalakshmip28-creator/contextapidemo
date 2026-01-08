@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contextapidemo/static/css/main.e6c13ad2.css",
+    "main.js": "/contextapidemo/static/js/main.240106bf.js",
+    "static/js/453.96c17252.chunk.js": "/contextapidemo/static/js/453.96c17252.chunk.js",
+    "index.html": "/contextapidemo/index.html",
+    "main.e6c13ad2.css.map": "/contextapidemo/static/css/main.e6c13ad2.css.map",
+    "main.240106bf.js.map": "/contextapidemo/static/js/main.240106bf.js.map",
+    "453.96c17252.chunk.js.map": "/contextapidemo/static/js/453.96c17252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.240106bf.js"
+  ]
+}
